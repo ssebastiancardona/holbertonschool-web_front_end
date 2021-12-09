@@ -1,0 +1,14 @@
+/* @mixin to heredar XD */
+
+@mixin mi-margen-supergenial($property) {
+    margin-left: $property;
+    margin-right: $property;
+}
+
+body {
+    @include mi-margen-supergenial(10px);
+}
+
+div {
+    @include mi-margen-supergenial(15px);
+}
