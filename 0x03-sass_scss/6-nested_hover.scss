@@ -1,0 +1,8 @@
+/* Holberton aveces se pasa con darse a entender que quiere o yo soy muyy malo */
+
+button {
+    color: #FF0000;
+    &:hover {
+        color: #00FF00;
+    }
+}
