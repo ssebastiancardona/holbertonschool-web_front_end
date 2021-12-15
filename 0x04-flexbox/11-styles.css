@@ -465,6 +465,13 @@ ul.row {
     z-index: 0;
 }
 
+
+/*** ARTICLE PAGE ***/
+
+
+/* Section HERO (article)
+    ============================= */
+
 .hero-article .section-inner {
     text-align: center;
     align-items: center;
