@@ -298,10 +298,6 @@ h6 {
     padding: var(--footer-padding);
 }
 
-.navbar-menu {
-    float: right;
-}
-
 .nav {
     margin: 0;
     padding: 0;
